@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-A simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. This interactive game allows users to play against the computer and tracks the score throughout the session.
+A simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. This interactive game allows users to play against the computer and tracks the score.
 
 ## Features
 - Interactive gameplay between the user and computer
